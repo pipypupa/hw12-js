@@ -87,6 +87,8 @@ const user = {
     )
   );
   
+// Завдання 6
+
   function calculateTotalPrice(allProducts, productName) {
     let totalPrice = 0;
   
